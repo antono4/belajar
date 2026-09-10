@@ -1,2 +1,26 @@
-Last updated: 2026-09-10 07:08:42 WIB
-Last updated: 2026-09-10 07:34:19 WIB
+# belajar
+
+
+
+## 📋 Overview
+
+This repository contains **4178 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-10 08:05:06 WIB*
